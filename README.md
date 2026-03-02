@@ -13,7 +13,7 @@ Add the marketplace and install the plugin:
 
 ## Skills
 
-Once installed, you'll have access to four skills:
+Once installed, you'll have access to five skills:
 
 ### `/journalism-tools:python-runner`
 
@@ -36,6 +36,16 @@ Analyze preprocessed data for investigative journalism with full transparency. E
 - **Every number needs a source**: Statistics trace back to verifiable records
 - **Findings are hypotheses**: Analysis surfaces patterns, not proof of wrongdoing
 - **Defensibility over sophistication**: Simple analyses that hold up under scrutiny
+
+### `/journalism-tools:sports-funding-search`
+
+Search for and compile public subsidies, tax breaks, and government funding for sports teams, stadiums, and venues. Designed for investigative journalists researching public money flowing to sports organizations.
+
+- **Primary sources only**: Every funding figure traces to a budget document, bond filing, tax record, or official agreement
+- **Subsidy taxonomy**: Identifies and distinguishes grants, tax abatements, tax-exempt bonds, infrastructure spending, TIF districts, and below-market leases
+- **Multi-source research**: Guides search across Good Jobs First, MSRB/EMMA, USA Spending, IRS 990s, and state/local records
+- **FOIA targeting**: Identifies specific records to request and tracks outstanding requests
+- **Defensible totals**: Requires explicit methodology for any aggregate subsidy figures
 
 ### `/journalism-tools:document-extractor`
 
